@@ -61,6 +61,10 @@ a[pos="end"] {
     float: left;
 }
 
+a[pos="end"], a[img="beeg"] {
+    width: 30px;
+}
+
 a[pos="end"] > img, a[img="beeg"] > img {
     height: 25px;
     width: auto;
