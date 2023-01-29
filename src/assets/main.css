@@ -11,4 +11,6 @@ html, body {
     overflow-x: hidden;
 
     background-color: black;
+    background-image: url("/Background/background.png");
+    background-size: cover;
 }
